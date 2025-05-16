@@ -1,7 +1,10 @@
 # Wind Farm Load Estimation
 [![DOI](https://zenodo.org/badge/933592104.svg)](https://doi.org/10.5281/zenodo.15446360)
 
-This repository provides all necessary materials to reproduce the analyses and results presented in our paper, currently under review, on wind farm load estimation. The codebase includes data processing pipelines, analysis scripts, and visualization tools, along with the datasets used in our research.
+This repository provides the codebase to reproduce the analyses and results presented in our paper, currently under review, on wind farm load estimation. It includes data processing pipelines, analysis scripts, and visualization tools. 
+
+The dataset used in this project is available via Zenodo:
+https://doi.org/10.5281/zenodo.15380254
 
 ## Dependencies
 - Python version: 3.11.1
